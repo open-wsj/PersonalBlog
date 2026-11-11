@@ -1,52 +1,27 @@
 ---
-title: About
-description: About the Stalux blog theme
+title: 关于
+description: 关于 wsj 和他的博客
 ---
 
-## 👋 About Stalux
+## 👋 你好，我是 wsj
 
-**Stalux** — a modern, high-performance [Astro](https://astro.build) blog theme designed for content creators who value both aesthetics and efficiency. Developed by **xingwangzhe**, the name blends "Static" and "Luxury," reflecting the goal of delivering a premium writing and reading experience with static-site speed.
+这里是 **wsj 的个人博客**，用来记录技术学习、工程实践和日常思考。
 
-## ✨ Design Philosophy
+## ✍️ 我会写什么
 
-_"Simple, but not simplistic; beautiful, but not flashy."_
+- 技术笔记：前端、后端、Linux 与各种折腾过程
+- 工程实践：踩坑记录、问题排查、可复现的操作步骤
+- 日常随想：读过的书、用过的工具、值得记下来的想法
 
-Stalux features a dark-themed design with elegant glassmorphism aesthetics. Subtle tiled background patterns add visual depth without distracting from the content. Every element is crafted to keep the focus where it belongs — your writing.
+## 🧭 关于本站
 
-## 🔤 Font Optimization
+- 基于 [Astro](https://astro.build) 构建，使用 [Stalux](https://github.com/xingwangzhe/stalux) 主题
+- 全站静态生成，部署在 EdgeOne Pages
+- 文章以 Markdown 编写，支持代码高亮、数学公式与全文搜索
 
-Built with a 25 MB Chinese font (LXGW WenKai), but your visitors never download the full file. The build system automatically generates per-route font subsets:
+## 📮 联系我
 
-- **Common subset** (~350 KB) — shared characters loaded on every page
-- **Per-route subset** (~0.5–3 KB each) — unique characters per article
+- Gitee：[gitee.com/open-zynq](https://gitee.com/open-zynq)
+- 邮箱：[3343137303@qq.com](mailto:3343137303@qq.com)
 
-Each page downloads only the characters it needs.
-
-## 🚀 How to Use
-
-**Dual-mode:** Use as a source template or install as an npm package.
-
-```bash
-# Plugin mode (recommended)
-bun create astro
-bun add @xingwangzhe/stalux
-bunx stalux init
-```
-
-```bash
-# Template mode
-git clone https://github.com/xingwangzhe/stalux.git
-bun install && bun run dev
-```
-
-All configuration is done through YAML files under `stalux/config/` — no coding required.
-
-## 🔗 Links
-
-- [GitHub Repository](https://github.com/xingwangzhe/stalux)
-- [Live Demo](https://stalux.needhelp.icu)
-- [npm Package](https://www.npmjs.com/package/@xingwangzhe/stalux)
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
+欢迎交流，也欢迎交换友链。

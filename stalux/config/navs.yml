@@ -2,25 +2,25 @@ id: navs
 items:
     - icon: home
       link: /
-      title: Home
+      title: 首页
     - icon: archive
       link: /archives
-      title: Posts
+      title: 文章
     - icon: folder
       link: /categories
-      title: Categories
+      title: 分类
     - icon: tag
       link: /tags
-      title: Tags
+      title: 标签
     - icon: quote
       link: /words
-      title: Words
+      title: 随想
     - icon: link
       link: /links
-      title: Links
+      title: 友链
     - icon: user
       link: /about
-      title: About
+      title: 关于
     - icon: train-front
       link: https://www.travellings.cn/go
-      title: Travellings
+      title: 开往

@@ -12,7 +12,7 @@ badges:
       message: Stalux
     - alt: Built with Love
       color: red
-      href: https://github.com/xingwangzhe
+      href: https://gitee.com/open-zynq
       label: Built with
       message: ❤
       style: for-the-badge
@@ -46,19 +46,6 @@ badges:
       href: /llms-full.txt
       label: LLMs-Full
       message: Full
-    - collapsed: true
-      items:
-          - alt: Community Site A
-            color: green
-            href: https://example.com
-            label: Community A
-            message: Community
-          - alt: Community Site B
-            color: yellow
-            href: https://example.org
-            label: Community B
-            message: Navigation
-      title: Blog Community
 beian:
     icp:
         enabled: false
@@ -67,11 +54,11 @@ beian:
         enabled: false
         number: ""
         text: ""
-buildtime: "2025-05-01T10:00:00"
+buildtime: "2026-11-11T10:00:00"
 copyright:
     customText: ""
     enabled: true
-    startYear: 2024
+    startYear: 2026
 custom: '<!-- footer custom slot example, can place stats, widgets, etc. -->
 
     <div id="custom-footer-hook"></div>

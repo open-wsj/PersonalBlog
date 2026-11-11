@@ -1,8 +1,8 @@
 id: site
 lang: zh-CN
-title: 我的博客
+title: wsj 的博客
 url: https://personal-blog-5lm7zlbm.edgeone.cool
-description: "记录技术学习与日常思考的个人博客。"
+description: "wsj 的个人博客，记录技术学习、工程实践与日常随想。"
 accentColor: "#EAB308" # Shared theme accent color (six-digit HEX)
 timezone: "Asia/Shanghai"
 favicon: "/stalux.ico"
