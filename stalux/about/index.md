@@ -1,11 +1,11 @@
 ---
 title: 关于
-description: 关于 wsj 和他的博客
+description: 关于 Wang Shijie 和他的博客
 ---
 
-## 👋 你好，我是 wsj
+## 👋 你好，我是 Wang Shijie
 
-这里是 **wsj 的个人博客**，用来记录技术学习、工程实践和日常思考。
+这里是 **Wang Shijie 的个人博客**，用来记录技术学习、工程实践和日常思考。
 
 ## ✍️ 我会写什么
 
