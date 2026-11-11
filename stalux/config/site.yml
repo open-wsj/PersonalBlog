@@ -1,12 +1,12 @@
 id: site
 lang: zh-CN
 title: 我的博客
-url: https://example.com
+url: https://personal-blog-5lm7zlbm.edgeone.cool
 description: "记录技术学习与日常思考的个人博客。"
 accentColor: "#EAB308" # Shared theme accent color (six-digit HEX)
 timezone: "Asia/Shanghai"
 favicon: "/stalux.ico"
-canonical: "https://example.com"
+canonical: "https://personal-blog-5lm7zlbm.edgeone.cool"
 
 weather:
   enabled: true # Optional visitor IP weather; omitted means disabled
