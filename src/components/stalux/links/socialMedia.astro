@@ -8,6 +8,8 @@ import { getMediaLinksData } from "@utils/config-utils";
 import {
     type SimpleIcon,
     siBilibili,
+    siCsdn,
+    siGitee,
     siGithub,
     siJuejin,
     siMaildotru,
@@ -22,7 +24,9 @@ const mediaLinks = mediaLinksSection?.items ?? [];
 // 静态图标映射表：新增图标时只需添加对应的 simple-icons 导入和映射
 const iconMap: Record<string, SimpleIcon> = {
     github: siGithub,
+    gitee: siGitee,
     bilibili: siBilibili,
+    csdn: siCsdn,
     qq: siQq,
     maildotru: siMaildotru,
     juejin: siJuejin,
