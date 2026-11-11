@@ -1,10 +1,10 @@
 id: comment
-enabled: false
+enabled: true
 waline:
-    serverURL: https://your-waline.example.com
+    serverURL: https://waline-server-topaz-beta.vercel.app
     lang: zh-CN
     # locale:
-    login: "force"
+    login: "enable"
     recaptchaV3Key: ""
     turnstileKey: ""
     dark: true
