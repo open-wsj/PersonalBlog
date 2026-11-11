@@ -22,6 +22,7 @@ description: 关于 Wang Shijie 和他的博客
 ## 📮 联系我
 
 - Gitee：[gitee.com/open-zynq](https://gitee.com/open-zynq)
+- Bilibili：[space.bilibili.com/1875855110](https://space.bilibili.com/1875855110)
 - 邮箱：[3343137303@qq.com](mailto:3343137303@qq.com)
 
 欢迎交流，也欢迎交换友链。
