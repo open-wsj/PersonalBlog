@@ -1,7 +1,7 @@
 id: comment
 enabled: false
 waline:
-    serverURL: https://walines.xingwangzhe.fun
+    serverURL: https://your-waline.example.com
     lang: zh-CN
     # locale:
     login: "force"

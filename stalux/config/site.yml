@@ -1,13 +1,12 @@
 id: site
-lang: en
-title: Stalux Blog Theme
-url: https://stalux.needhelp.icu
-description: "Blog theme Stalux - A professional display platform for content creators, supporting various customization features including comment system integration, friend link management, social media sharing, and rich SEO optimization options to make your content more attractive and discoverable."
+lang: zh-CN
+title: 我的博客
+url: https://example.com
+description: "记录技术学习与日常思考的个人博客。"
 accentColor: "#EAB308" # Shared theme accent color (six-digit HEX)
 timezone: "Asia/Shanghai"
-# canonical: https://stalux.needhelp.icu
 favicon: "/stalux.ico"
-canonical: "https://stalux.needhelp.icu"
+canonical: "https://example.com"
 
 weather:
   enabled: true # Optional visitor IP weather; omitted means disabled

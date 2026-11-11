@@ -21,16 +21,6 @@ badges:
       href: https://github.com/xingwangzhe/stalux/blob/main/LICENSE
       label: license
       message: MIT
-    - alt: Software Copyright Registration No. 2025SR2258474
-      color: yellowgreen
-      href: /copyright-certificate.pdf
-      label: Software Copyright
-      message: Reg# 2025SR2258474
-    - alt: Alibaba Cloud ESA
-      color: brightgreen
-      href: https://www.aliyun.com/product/esa
-      label: Alibaba ESA
-      message: Powered
     - alt: Sitemap XML
       color: orange
       href: /sitemap-index.xml
