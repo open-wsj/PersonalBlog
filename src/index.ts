@@ -61,8 +61,8 @@ import {
 } from "./internal/satteri-config";
 import { searchStylePlugin } from "./internal/search-style";
 import { createViteAliases } from "./internal/vite-aliases";
-import { featureFlagsHast, featureFlagsMdast } from "./plugins/feature-flags";
 import { externalImageReferrer } from "./plugins/external-image-referrer";
+import { featureFlagsHast, featureFlagsMdast } from "./plugins/feature-flags";
 import { imageCaptions } from "./plugins/image-captions";
 import { imageDimensions } from "./plugins/image-dimensions";
 import { temml } from "./plugins/satteri-temml";
@@ -304,7 +304,11 @@ export function stalux(options: StaluxOptions = {}): AstroIntegration[] {
                         );
                         // Dimensions must land before PhotoSwipe copies them onto the link.
                         appendUniquePlugin(processorOptions.hastPlugins, imageDimensions, seen);
-                        appendUniquePlugin(processorOptions.hastPlugins, externalImageReferrer, seen);
+                        appendUniquePlugin(
+                            processorOptions.hastPlugins,
+                            externalImageReferrer,
+                            seen,
+                        );
                         appendUniquePlugin(processorOptions.hastPlugins, photoswipe(), seen);
                         appendUniquePlugin(processorOptions.hastPlugins, imageCaptions, seen);
                         appendUniquePlugin(processorOptions.hastPlugins, featureFlagsHast, seen);
