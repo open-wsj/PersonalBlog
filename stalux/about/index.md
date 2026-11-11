@@ -15,9 +15,10 @@ description: 关于 Wang Shijie 和他的博客
 
 ## 🧭 关于本站
 
-- 基于 [Astro](https://astro.build) 构建，使用 [Stalux](https://github.com/xingwangzhe/stalux) 主题
+- 基于 [Astro](https://astro.build) 构建，使用 [xingwangzhe](https://xingwangzhe.fun) 开发的 [Stalux](https://github.com/xingwangzhe/stalux) 主题
 - 全站静态生成，部署在 EdgeOne Pages
 - 文章以 Markdown 编写，支持代码高亮、数学公式与全文搜索
+- 除非另有说明，本站内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议
 
 ## 📮 联系我
 

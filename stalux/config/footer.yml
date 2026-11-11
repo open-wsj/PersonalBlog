@@ -10,6 +10,18 @@ badges:
       href: https://github.com/xingwangzhe/stalux
       label: Theme
       message: Stalux
+    - alt: "Powered by xingwangzhe"
+      color: blue
+      href: https://xingwangzhe.fun
+      label: Powered by
+      message: xingwangzhe
+      style: flat-square
+    - alt: "Content License: CC BY-NC-SA 4.0"
+      color: lightgrey
+      href: https://creativecommons.org/licenses/by-nc-sa/4.0/
+      label: License
+      message: CC BY-NC-SA 4.0
+      style: flat-square
     - alt: Built with Love
       color: red
       href: https://gitee.com/open-zynq
