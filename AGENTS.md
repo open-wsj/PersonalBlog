@@ -124,7 +124,7 @@ Stalux 的软件著作权登记版本属于 **1.x.x**。此项目必须长期保
 Any new or changed user-facing configuration field must be handled as one change set:
 
 1. Update the Zod schema and all runtime consumers.
-2. Search every relevant Markdown document (`README.md`, `README_CN.md`, and `stalux/posts/*_config*.md`) and document the field, default/optional behavior, output surface, and privacy implications.
+2. Search every relevant Markdown document (`README.md`, `README_EN.md`, and `stalux/posts/*_config*.md`) and document the field, default/optional behavior, output surface, and privacy implications.
 3. Add or update a focused build assertion for the generated public artifact. For JSON-LD/config changes, parse the generated HTML or JSON rather than relying only on TypeScript compilation.
 4. During implementation, run the necessary initial checks (`bun run check:fix`, `bun run validate`, and `bun pm pack --dry-run`) once; reuse current valid results for a version-only release instead of repeating them.
 5. Bump the package version, commit the implementation and docs together, and push the branch and annotated tag. Stop after a successful push; wait for CI/npm visibility, upgrade another repository, or perform additional builds only when the user explicitly requests that work.
