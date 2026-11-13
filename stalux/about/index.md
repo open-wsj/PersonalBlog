@@ -22,7 +22,7 @@ description: 关于 Wang Shijie 和他的博客
 
 ## 📮 联系我
 
-- GitHub：[github.com/OPEN-F](https://github.com/OPEN-F)
+- GitHub：[github.com/open-wsj](https://github.com/open-wsj)
 - Gitee：[gitee.com/open-zynq](https://gitee.com/open-zynq)
 - Bilibili：[space.bilibili.com/1875855110](https://space.bilibili.com/1875855110)
 - CSDN：[blog.csdn.net/CJLU_WSJ](https://blog.csdn.net/CJLU_WSJ)
