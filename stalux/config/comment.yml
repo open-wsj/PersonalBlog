@@ -1,7 +1,7 @@
 id: comment
 enabled: true
 waline:
-    serverURL: https://waline-server-topaz-beta.vercel.app
+    serverURL: https://waline-api.wsj3343137303.workers.dev
     lang: zh-CN
     # locale:
     login: "enable"
