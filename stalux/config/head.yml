@@ -8,4 +8,5 @@ id: head
 #   id: ""
 #   url: ""
 # Custom head HTML content
-anyhead: ""
+anyhead: |
+    <script>window.__STALUX_BG_URLS__ = ["/background/pattern-12.min.dark.webp"];</script>
