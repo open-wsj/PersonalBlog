@@ -1,5 +1,7 @@
 id: media-links
 items:
+    - icon: github
+      link: https://github.com/OPEN-F
     - icon: gitee
       link: https://gitee.com/open-zynq
     - icon: bilibili

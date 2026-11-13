@@ -16,12 +16,13 @@ description: 关于 Wang Shijie 和他的博客
 ## 🧭 关于本站
 
 - 基于 [Astro](https://astro.build) 构建，使用 [xingwangzhe](https://xingwangzhe.fun) 开发的 [Stalux](https://github.com/xingwangzhe/stalux) 主题
-- 全站静态生成，部署在 EdgeOne Pages
+- 全站静态生成，部署在 Cloudflare Pages
 - 文章以 Markdown 编写，支持代码高亮、数学公式与全文搜索
 - 除非另有说明，本站内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议
 
 ## 📮 联系我
 
+- GitHub：[github.com/OPEN-F](https://github.com/OPEN-F)
 - Gitee：[gitee.com/open-zynq](https://gitee.com/open-zynq)
 - Bilibili：[space.bilibili.com/1875855110](https://space.bilibili.com/1875855110)
 - CSDN：[blog.csdn.net/CJLU_WSJ](https://blog.csdn.net/CJLU_WSJ)
