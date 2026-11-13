@@ -5,7 +5,7 @@ url: https://wsj-blog.pages.dev
 description: "Wang Shijie 的个人博客，记录技术学习、工程实践与日常随想。"
 accentColor: "#EAB308" # Shared theme accent color (six-digit HEX)
 timezone: "Asia/Shanghai"
-favicon: "/stalux.ico"
+favicon: "/favicon.ico"
 canonical: "https://wsj-blog.pages.dev"
 
 weather:
