@@ -1,7 +1,7 @@
 id: comment
 enabled: true
 waline:
-    serverURL: https://waline-api.wsj3343137303.workers.dev
+    serverURL: https://waline.curiosity.kdns.fr
     lang: zh-CN
     # locale:
     login: "enable"
