@@ -9,7 +9,7 @@ import { parse as parseYaml } from "yaml";
 // 使用本地 stalux 集成（注入路由、Vite 别名、Pagefind、satteri 插件等）
 import stalux from "./src/index.ts";
 
-const site = "https://wsj-blog.pages.dev";
+const site = "https://wsj.curiosity.kdns.fr";
 const promotePath = path.join(process.cwd(), "stalux/config/promote.yml");
 const promoteFile = Bun.file(promotePath);
 const promoteConfig = (await promoteFile.exists())
